@@ -1,0 +1,23 @@
+{
+  "name": "associations",
+  "version": "1.0.0",
+  "description": "embed associations mongoDB",
+  "main": "embed.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dali012",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.10.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dali012/embed_mongoDB.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dali012/embed_mongoDB/issues"
+  },
+  "homepage": "https://github.com/dali012/embed_mongoDB#readme"
+}
